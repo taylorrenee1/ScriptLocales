@@ -1,3 +1,4 @@
+-- Thanks to _MAX_
 Loc["de"] = {
     error = {
 	["cancel"] = "Abgebrochen",
